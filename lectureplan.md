@@ -4,7 +4,7 @@ This course schedule is tentative and will be updated.
 
 | Week | Date        | &nbsp;Time&nbsp; | Lecture | Topic                                                     | Material                                     |
 | ---- | ----        | -----            | ------- | -----                                                     | --------                                     |
-| 36   | 02 Sep      | 09-11            | TL      | Introduction, security concepts and the threat of hacking | SB 1, (online resource, TBA)                 |
+| 36   | 02 Sep      | 09-11            | TL      | Introduction, security concepts and the threat of hacking | SB 1, [Defending the digital frontier, The Economist](https://www.economist.com/sites/default/files/20140712_cyber-security.pdf)                 |
 |      | 03 Sep      | 13-17            |         | Cryptography recap, Tool setup, The Bandit Wargame        | Recap: SB, [(Details)](exercises/exercise1.md) 2                                  |
 |      | 06 Sep      | 09-11            | TL      | Buffer overflow                                           | SB 10                                        |
 | 37   | 09 Sep      | 09-11            | CJ      | Software security, Operating system security              | SB 11, 12                                    |
