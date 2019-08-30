@@ -36,14 +36,14 @@ Instructors:
 Exercises will be held weekly and will include help getting started on the assignment, feedback on the assignments, and optional SEED labs. At some there will also be a recap of material relating to CompSys.
 
 ### TAs
- * Oscar Nelin
- * Ole-Christian Galbo Engstrøm
- * Lasse Grønborg
+ * Oscar Nelin - Hold 1
+ * Ole-Christian Galbo Engstrøm - Hold 2
+ * Lasse Grønborg - Hold 3
 
 ### Rooms
-* DIKU 1-0-04
-* DIKU 1-0-14
-* DIKU 1-0-37
+* Hold 1: DIKU 1-0-04
+* Hold 2: DIKU 1-0-14
+* Hold 3: DIKU 1-0-37
 
 ## Teaching Material
 
