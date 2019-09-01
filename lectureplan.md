@@ -35,7 +35,7 @@ This course schedule is tentative and will be updated.
 |      | 26 Oct      |                  |         | Assignment 6 handin @ 10AM                                | [Assignment 2](assignments/assignment6.md) |
 | 44   | 29 Oct      | 15-16            | Guest   | TBA                                                       |                                              |
 |      |             | 16-17            | All     | Recap and Q/A                                             |                                              |
-| 45   | 06&nbsp;Nov |                  |         | Exam                                                      | All of the above                             |
+| 45   | 06 Nov |                  |         | Exam                                                      | All of the above                             |
 
 
 * SB: Computer Security: Principles and Practice, William Stalling & Lawrie Brown, 4th and Global Edition, Pearson
