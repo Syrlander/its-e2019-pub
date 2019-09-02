@@ -32,7 +32,7 @@ This course schedule is tentative and will be updated.
 | 43   | 22 Oct      | 09-11            | CJ      | Privacy 1                                                 | SB 19, (online resource, TBA)                |
 |      | 23 Oct      | 13-17            |         | Assignment help and possible SeedLab                      | [(Details)](exercises/exercise7.md)                                              |
 |      | 25 Oct      | 09-11            | CJ      | Privacy 2 - GDPR                                          | (online resource, TBA)                       |
-|      | 26 Oct      |                  |         | Assignment 6 handin @ 10AM                                | [Assignment 2](assignments/assignment6.md) |
+|      | 26 Oct      |                  |         | Assignment 6 handin @ 10AM                                | [Assignment 6](assignments/assignment6.md) |
 | 44   | 29 Oct      | 15-16            | Guest   | TBA                                                       |                                              |
 |      |             | 16-17            | All     | Recap and Q/A                                             |                                              |
 | 45   | 06&nbps;Nov |                  |         | Exam                                                      | All of the above                             |
