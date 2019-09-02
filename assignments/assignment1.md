@@ -7,7 +7,8 @@ Due: 14 September @ 10:00
 
 ## Basic encryption
 
-  * (Problem from the book, Posted Mon evening)
+  * Problem 2.5, page 82
+  * Problem 2.6, page 83
 
 ## Buffer overflow
 
