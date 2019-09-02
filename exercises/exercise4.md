@@ -1,5 +1,5 @@
 # Exercise 4
-Due: 24 September @ 13 - 17
+24 September @ 13 - 17
 
 ## Assignment help
 
