@@ -3,7 +3,8 @@ Due: 14 September @ 10:00
 
 ## Basic introduction
 
-  * (Problem from the book, Posted Mon evening)
+  * SB 1: Review Question 1.1, page 50
+  * Problems 1.4, 1.6, page 51
 
 ## Basic encryption
 

@@ -7,9 +7,7 @@ Chapter 2 of SB reflects the material that was presented in CompSys on encryptio
 The TAs will shortly present the material from the book and be able to answer question relating to this.
 
 ## Start with assignments from SB 1 and SB 2
-* SB 1: Review Question 1.1, Problems 1.4, 1.6.
-
-Spend a bit of time to look at the assignment questions relating to the above:
+Spend time getting started on the assignment questions relating to the above:
 
 [Assignment 1](../assignments/assignment1.md).
 
