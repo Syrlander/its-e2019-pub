@@ -24,7 +24,7 @@ You will work in the terminal and make simple shell scripts. We will have exerci
  * Mondays at 09-11 in Teilum A, Frederik Vs vej 1
  * Fridays at 09-11 in Aud 6, HCØ
 
-Instructors: 
+Instructors:
   * Michael Kirkedal Thomsen (course organiser)
   * Troels Langkjær
   * Carsten Jørgensen
