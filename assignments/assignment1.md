@@ -16,7 +16,7 @@ For review questions, generally write 3 to 5 lines.
 ## Buffer overflow
 
 Review Questions:
- * 10.1
+ * 10.1 (Note, it is Table 10.2 (page 356) and not Figure)
  * 10.2
  * 10.3
  * 10.4
