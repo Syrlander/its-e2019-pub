@@ -1,4 +1,13 @@
 #include <stdio.h>
+#include <string.h>
+
+#define FALSE 0
+#define TRUE !FALSE
+
+void next_tag(char str[8]) {
+  char tag[8] = "START";
+  stpcpy(str, tag);
+}
 
 int main(int argc, char *argv[]) {
   int valid = FALSE;
