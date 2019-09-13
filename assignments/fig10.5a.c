@@ -2,7 +2,8 @@
 
 void hello(char *tag) {
   char inp[16];
-  printf("Enter value for %s: ", tag); gets(inp);
+  printf("Enter value for %s: ", tag);
+  gets(inp);
   printf("Hello your %s is %s\n", tag, inp);
 }
 
