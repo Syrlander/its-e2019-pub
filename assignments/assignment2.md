@@ -23,4 +23,13 @@ c) Some providers allows users to choose their own pincodes, how does this affec
 
 ## Malicious software
 
-  * (Problem from the book, TBA)
+Review Questions
+  * 6.1
+  * 6.3
+  * 6.8
+  * 6.12
+
+Problems:
+  * 6.3
+  * 6.10
+  * 6.11
