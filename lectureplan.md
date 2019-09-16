@@ -11,7 +11,7 @@ This course schedule is tentative and will be updated.
 |      | 10 Sep      | 13-17            |         | Assignment help and SeedLab                               | [(Details)](exercises/exercise2.md)                                              |
 |      | 13 Sep      | 09-11            | CJ      | User authentication and access control                    | SB 3, 4                                      |
 |      | 14 Sep      |                  |         | Assignment 1 handin @ 10AM                                | [Assignment 1](assignments/assignment1.md)   |
-| 38   | 16 Sep      | 09-11            | TJ      | Malicious software                                        | SB 6                                         |
+| 38   | 16 Sep      | 09-11            | TL      | Malicious software                                        | SB 6                                         |
 |      | 17 Sep      | 13-17            |         | Assignment help and SeedLab                               | [(Details)](exercises/exercise3.md)                                              |
 |      | 20 Sep      | 09-11            | CJ      | Firewalls and denial-of-service attacks                   | SB 7, 9                                      |
 |      | 21 Sep      |                  |         | Assignment 2 handin @ 10AM                                | [Assignment 2](assignments/assignment2.md)   |
