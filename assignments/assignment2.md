@@ -16,8 +16,11 @@ Answer the following with a few sentences:
 * Why should you use a slow hash function, such as scrypt or bcrypt, rather than a fast function, if you want to securely store passwords?
 
 A standard PIN-code for a credit card is only 4 digits long.
+
 a) How many different pincodes are possible?
+
 b) Why is the credit card security adequate when the password of only 4 digits?
+
 c) Some providers allows users to choose their own pincodes, how does this affect security?
 
 
