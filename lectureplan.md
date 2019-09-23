@@ -25,8 +25,8 @@ This course schedule is tentative and will be updated.
 |      | 05 Oct      |                  |         | Assignment 4 handin @ 10AM                                | [Assignment 4](assignments/assignment4.md) |
 | 41   | 07 Oct      | 09-11            | TL      | Forensics                                                 | (online resource, TBA)                       |
 |      | 08 Oct      | 13-17            |         | Assignment help and SeedLab                               | [(Details)](exercises/exercise6.md)                                              |
-|      | 12 Oct      | 09-11            | CJ      | IT security management                                    | SB 14, 15                                    |
-|      | 13 Oct      |                  |         | Assignment 5 handin @ 10AM                                | [Assignment 5](assignments/assignment5.md) |
+|      | 11 Oct      | 09-11            | CJ      | IT security management                                    | SB 14, 15                                    |
+|      | 12 Oct      |                  |         | Assignment 5 handin @ 10AM                                | [Assignment 5](assignments/assignment5.md) |
 | 42   |             |                  |         | Fall Vacation - No lectures                               |                                              |
 |      | 19 Oct      |                  |         | Possible re-handin of one assignment (1-4) @ 10AM         |                                              |
 | 43   | 22 Oct      | 09-11            | CJ      | Privacy 1                                                 | SB 19, (online resource, TBA)                |
