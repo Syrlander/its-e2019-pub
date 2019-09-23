@@ -20,4 +20,7 @@ For each statement, answer True or False, shortly argue for your answer:
 
 ## Cloud and IoT
 
-  * (Problem from the book, TBA)
+Answer the following:
+* Briefly explain the differences between IaaS, PaaS and Saas
+* Describe some of the main cloud computing specific security threats
+* Briefly list some of the main security threats against IoT-solutions
