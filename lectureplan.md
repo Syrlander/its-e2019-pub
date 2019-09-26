@@ -17,9 +17,9 @@ This course schedule is tentative and will be updated.
 |      | 21 Sep      |                  |         | Assignment 2 handin @ 10AM                                | [Assignment 2](assignments/assignment2.md)   |
 | 39   | 23 Sep      | 09-11            | CJ      | Cloud and IoT                                             | SB 13                                        |
 |      | 24 Sep      | 13-17            |         | Assignment help and SeedLab                               | [(Details)](exercises/exercise4.md)                                              |
-|      | 27 Sep      | 09-11            | TL      | Cryptography                                              | SB 20.1-x, 21.1-x (TBA)                      |
+|      | 27 Sep      | 09-11            | TL      | Cryptography                                              | SB 20, 21 (details on AES, AE, OCB, SHA and HMAC cursorily)                      |
 |      | 28 Sep      |                  |         | Assignment 3 handin @ 10AM                                | [Assignment 3](assignments/assignment3.md)|
-| 40   | 30 Sep      | 09-11            | TL      | Internet security protocols                               | SB 22, 23.1-3                                |
+| 40   | 30 Sep      | 09-11            | TL      | Internet security protocols                               | SB 22, 23                                |
 |      | 01 Oct      | 13-17            |         | Assignment help and SeedLab                               | [(Details)](exercises/exercise5.md)                                              |
 |      | 04 Oct      | 09-11            | TL      | Intrusion detection                                       | SB 8                                         |
 |      | 05 Oct      |                  |         | Assignment 4 handin @ 10AM                                | [Assignment 4](assignments/assignment4.md) |
